@@ -18,5 +18,4 @@ Apesar de fácil entendimento, não foi fácil a construção! Esse projeto foi 
 - Tabela Folha de Pagamento: Funcionário, Valor, Data
 - Tabela de percas: Origem, Valor, Data
 
-
-## Nota: As tabelas descritas acima foram criadas somente para aplicação de teste para esse projeto, quando aplicado à uma empresa, certamente haverá uma base de dados maior, aumentando o grau de complexidade no manuseio desses dados, visto que mais tabelas são utilizada, a exemplo, o ERP Winthor que utiliza ....... 
+-- Nota: As tabelas descritas acima foram criadas somente para aplicação de teste para esse projeto. Tal projeto quando implementado à uma empresa real, que certamente haverá uma base de dados maior, terá o grau de complexidade no manuseio desses dados aumentado, visto que mais tabelas são utilizada, a exemplo, o ERP Winthor, que utiliza a tabela de contas contábeis, grupo de contas e de lançamento de recebimento por tipo. Sendo asim para ter o resultado que temos no projeto atual, seria necessário relacionar tabelas como: "PCCONTA" , "PCGRUPO", "PCFORNEC", "PCLANC" dentre algumas outras. Ou ainda as tabelas: "PCPREST", "PCCOB", "PCCLIENT", "PCUSUARI", "PCSUPERV", "PCPRACA" para se obter o resultado do clique em "Detalhes de contas vencidas".
