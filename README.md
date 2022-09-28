@@ -3,6 +3,13 @@ Nada de surpresa financeiras desagradáveis por aqui. Fluxo de caixa concluído!
 
 Apesar de fácil entendimento, não foi fácil a construção! Esse projeto foi desenvolvido com ajuda do Windows Forms do Visual Studio, com a linguagem C#. De início, foram necessários dois datagridviews que fazem consulta direta ao banco de dados, que nesse projeto foi o MySQL, trazendo as receitas e despesas obtidas pela empresa nos dias filtrados pelo usuário, dando a possibilidades de dados clicáveis para trazer detalhes, que mais à frente irei explicar a dinâmica. Já nos “Saldos Bancários”, além de um datagridview trazendo a consulta de saldos inseridos anteriormente, temos um botão de gravação, que irá gravar na tabela de saldos, no banco de dados, os saldos inseridos pelo usuário, dando a possibilidade de verificar divergências entre saldos que realmente estão nas contas com os dados do fluxo. Por fim o datagridview com mais funções atribuídas a ele (11 para ser bem exato), pois nele temos consultas de banco de dados mais completas, além de permitir filtrar dados e exportar para Excel os dados que o usuário selecionar (opções do contextMenuStrip). Quando o usuário clicar, por exemplo, na linha de clientes, dia 28 do datagridview de entrada ele irá filtrar quais foram as entradas por cliente do dia selecionado. Quando o usuário clicar no botão/link 'contas a receber vencidos', o datagridview assumirá a consulta detalhada da origem dessas contas a receber vencidas, assim, o departamento de cobranças poderá entrar em ação para negociar o pagamento com os clientes, antes que o saldo da empresa venha a ficar negativo. Já quando o usuário clica em 'filtrar caixas' no resumo de tesourarias, o datagridview abre uma nova consulta ao banco de dados trazendo as tesourarias e seus saldos junto a um combo-box em cada linha, onde ao ser marcado, um filtro será assumido e o usuário poderá visualizar somente totais dos das tesourarias marcadas, deixando de fora saldo que por qualquer motivo que seja, não precisariam ser contabilizados naquele momento. 
 
+# Resumo de Funcionalidades
+- Gerenciar fluxo de caixa semanal da corporação.
+- Analisar fontes de entradas e saídas recursos.
+- Trazer informação títulos vencidos de clientes e seus valores.
+- Analisar saldos de tesourarias (outras fontes de recursos que a empresa possui).
+- Atualizar e acompanhar saldos bancários reais.
+
 # Tabelas no Banco de Dados
 - Tabela de Receitas com as colunas: Origem da Receita, Valor da Receita, Data da Receita.
 - Tabela de Despesas com as colunas: Origem da Despesa, Valor da Despesa, Data da Despesa.
