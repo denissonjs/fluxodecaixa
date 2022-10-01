@@ -1,0 +1,11 @@
+C:\Users\jose.denisson\Desktop\PROG\C#\Portifólio\fluxoDeCaixa\bin\Debug\fluxoDeCaixa.exe.config
+C:\Users\jose.denisson\Desktop\PROG\C#\Portifólio\fluxoDeCaixa\bin\Debug\fluxoDeCaixa.exe
+C:\Users\jose.denisson\Desktop\PROG\C#\Portifólio\fluxoDeCaixa\bin\Debug\fluxoDeCaixa.pdb
+C:\Users\jose.denisson\Desktop\PROG\C#\Portifólio\fluxoDeCaixa\obj\Debug\fluxoDeCaixa.csproj.AssemblyReference.cache
+C:\Users\jose.denisson\Desktop\PROG\C#\Portifólio\fluxoDeCaixa\obj\Debug\fluxoDeCaixa.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose.denisson\Desktop\PROG\C#\Portifólio\fluxoDeCaixa\obj\Debug\fluxoDeCaixa.Form1.resources
+C:\Users\jose.denisson\Desktop\PROG\C#\Portifólio\fluxoDeCaixa\obj\Debug\fluxoDeCaixa.Properties.Resources.resources
+C:\Users\jose.denisson\Desktop\PROG\C#\Portifólio\fluxoDeCaixa\obj\Debug\fluxoDeCaixa.csproj.GenerateResource.cache
+C:\Users\jose.denisson\Desktop\PROG\C#\Portifólio\fluxoDeCaixa\obj\Debug\fluxoDeCaixa.csproj.CoreCompileInputs.cache
+C:\Users\jose.denisson\Desktop\PROG\C#\Portifólio\fluxoDeCaixa\obj\Debug\fluxoDeCaixa.exe
+C:\Users\jose.denisson\Desktop\PROG\C#\Portifólio\fluxoDeCaixa\obj\Debug\fluxoDeCaixa.pdb
