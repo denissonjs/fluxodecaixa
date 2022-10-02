@@ -70,6 +70,14 @@ namespace fluxoDeCaixa
 
             pButton.Region = new System.Drawing.Region(SuArredondaRect(r, pCanto, pTopo, pBase));
         }
+
+        public static void ArredondaDGV(DataGridView pDGV, int pCanto, bool pTopo, bool pBase)
+        {
+            Rectangle r = new Rectangle();
+            r = pDGV.ClientRectangle;
+
+            pDGV.Region = new System.Drawing.Region(SuArredondaRect(r, pCanto, pTopo, pBase));
+        }
     }
 
 
