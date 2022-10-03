@@ -9,6 +9,9 @@ Apesar de fácil entendimento, não foi fácil a construção! Esse projeto foi 
 - Trazer informação títulos vencidos de clientes e seus valores.
 - Analisar saldos de tesourarias (outras fontes de recursos que a empresa possui).
 - Atualizar e acompanhar saldos bancários reais.
+# Pre-Requisitos
+- Gerenciador do Postgresql, npgsql versão 4.0.2 ou superior.
+- Tabelas descritas no tópido "Tabelas no banco de Dados"
 
 # Tabelas no Banco de Dados
 - Tabela de Receitas com as colunas: Origem da Receita, Valor da Receita, Data da Receita.

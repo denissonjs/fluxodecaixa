@@ -15,7 +15,7 @@ namespace fluxoDeCaixa
         static string serverName = "localhost";
         static string port = "5432";
         static string userName = "postgres";
-        static string password = "total123";
+        static string password = "1234";
         static string databaseName = "producao";
         //NpgsqlConnection pgsqlConnection = null;
         static string connString = String.Format("Server={0};Port={1};User Id={2};Password={3};Database={4};", serverName, port, userName, password, databaseName);
