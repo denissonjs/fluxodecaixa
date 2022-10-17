@@ -1,3 +1,4 @@
+## Nota: O projeto está passando por uma pequena reestruturação, breve compartilho o projeto completo.
 # Descriçaõ do Projeto
 Nada de surpresa financeiras desagradáveis por aqui. Fluxo de caixa concluído! Com o objetivo de gerenciar a movimentação financeira de uma empresa, temos nesse projeto quatro tabelinhas intuitivas para o acompanhamento de despesas e receitas assim como saldos bancários e detalhes da despesa/receita que for clicada pelo usuário. Além de trazer uma visão completa desses dados, na parte inferior esquerda teremos um completíssimo resumo do estado financeiro atual da corporação. E por que ver o estado financeiro da empresa em um dia específico quando se pode ver do dia em questão e dos quatro dias posteriores? Como podem ver, nosso projeto também proporciona isso.
 
